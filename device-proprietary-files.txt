@@ -1,0 +1,22 @@
+# Add device specific blobs here
+# NFC
+lib/hw/nfc.qcom.so
+vendor/firmware/libpn544_fw.so
+
+# Wi-Fi
+etc/wifi/nvram_net.txt_murata
+etc/wifi/nvram_mfg.txt_murata
+
+# apn
+etc/apns-conf.xml
+
+# DivX
+#/lib/libDivxDrm.so
+
+# emoji
+lib/libemoji_docomo.so
+fonts/truetypeEmoji.ttf
+
+# S Memo
+lib/libdhwr.so
+lib/libdhwrex.so

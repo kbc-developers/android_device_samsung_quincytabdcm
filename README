@@ -1,0 +1,11 @@
+Copyright 2012 - The CyanogenMod Project
+Copyright 2013 - KBC Developers
+
+Device configuration for Samsung Galaxy tab 7.7 plus (ntt docomo model).
+
+WORK IN PROGRESS. WILL EAT YOUR CAT.
+
+Please add the repo of sc01e to local_manifest.xml
+
+  <project name="kbc-developers/android_device_samsung_quincytabdcm" path="device/samsung/quincytabdcm" remote="github" revision="cm-10.1" />
+  <project name="kbc-developers/android_kernel_samsung_msm8660" path="kernel/samsung/msm8660-dcm" remote="github" revision="android-jb-mr1-v3" />
